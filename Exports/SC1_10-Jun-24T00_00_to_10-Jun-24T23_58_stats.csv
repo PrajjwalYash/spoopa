@@ -1,0 +1,7 @@
+,Parameter,Min,Max
+0,Strs on during sunlit,13.0,20.5
+1,SAGS error (in %),1.26,1.54
+2,SAGS error at non-polar points (in %),0.09,0.2
+3,Voc cell temp during sunlit,22.58,93.94
+4,North pole Isc overgeneration (in mA),19.51,22.74
+5,South pole Isc overgeneration (in mA),11.12,12.74
